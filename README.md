@@ -7,10 +7,10 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yhangf&theme=radical&hide_title=false" align="left" style="width: 100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=yhangf&theme=radical&hide_title=false" align="left" style="width: 100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yhangf&hide_title=true&layout=compact&theme=radical" align="left" style="width: 100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhangf&hide_title=true&layout=compact&theme=radical" align="left" style="width: 100%" />
     </td>
   </tr>
 </table>
